@@ -1,6 +1,5 @@
 /**
-*@author: Veranika Tolkach
-*Assignment 5
+*@author: Veronika Ferrucci
 This program displays information about 6 computers.
 It uses a constructor to initialize the values.
 */
