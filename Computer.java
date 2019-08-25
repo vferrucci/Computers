@@ -1,6 +1,5 @@
 /**
-*@author: Veranika Tolkach
-*Assignment 5
+*@author: Veronika Ferrucci
 This code creates a class that holds computers' values in instance fields.
 */
 
@@ -23,7 +22,7 @@ public class Computer
    return compInfo;
    }//end toString
    
-   //default constructor
+   //the default constructor
    public Computer()
    {
       brand="Microsoft";
@@ -33,7 +32,7 @@ public class Computer
       storageCapacity="256GB";
       operatingSys="Windows 10 Home";
       price=1299.00;
-   }//end of default constructor
+   }//end of the default constructor
 
    //constructor with parameters
    public Computer(String brand, String name, String color, String ram, 
